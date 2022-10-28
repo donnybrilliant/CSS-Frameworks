@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/donnybrilliant/CSS-Frameworks/issues"
   },
-  "homepage": "https://github.com/donnybrilliant/CSS-Frameworks#readme"
+  "homepage": "https://github.com/donnybrilliant/CSS-Frameworks#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  },
+  "devDependencies": {
+    "live-server": "^1.1.0",
+    "sass": "^1.55.0"
+  }
 }
