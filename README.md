@@ -1,8 +1,8 @@
 # CSS-Frameworks
 
-![image](https://github.com/donnybrilliant/Portfolio-1/blob/main/assets/images/project-exam-1-header.png)
+![image](https://github.com/donnybrilliant/CSS-Frameworks/blob/main/assets/images/css-frameworks.jpeg)
 
-[Codepen Collector](https://daniel-vier-css-frameworks.netlify.app/) is a course assignment for the subject CSS Frameworks at Noroff.
+[CSS Frameworks](https://daniel-vier-css-frameworks-ca.netlify.app/) is a course assignment for the subject CSS Frameworks at Noroff.
 
 ## Description
 
@@ -40,7 +40,7 @@ Submission for this project will follow the pattern used in professional develop
 
 ## Getting Started
 
-[Visit the live site](https://daniel-vier-css-frameworks.netlify.app/)
+[Visit the live site](https://daniel-vier-css-frameworks-ca.netlify.app/)
 
 ## Contributing
 
