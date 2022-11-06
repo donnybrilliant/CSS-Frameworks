@@ -1,6 +1,6 @@
 # CSS-Frameworks
 
-![image](https://github.com/donnybrilliant/CSS-Frameworks/blob/main/assets/images/css-frameworks.jpeg)
+![image](https://github.com/donnybrilliant/CSS-Frameworks/blob/main/assets/images/css-frameworks.png)
 
 [CSS Frameworks](https://daniel-vier-css-frameworks-ca.netlify.app/) is a course assignment for the subject CSS Frameworks at Noroff.
 
